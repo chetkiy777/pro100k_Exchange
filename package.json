@@ -1,21 +1,21 @@
 {
-  "name": "carmania",
+  "name": "pro100kexchange",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://chetkiy777.github.io/Carmania",
+  "homepage": "https://chetkiy777.github.io/pro100k_Exchange",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Carmania/"
+    "build": "parcel build src/*.html --public-url /pro100k_Exchange/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chetkiy777/Carmania.git"
+    "url": "git+https://github.com/chetkiy777/pro100k_Exchange.git"
   },
   "keywords": [],
   "author": "Igor Gladkiy <egunka1988@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chetkiy777/Carmania/issues"
+    "url": "https://github.com/chetkiy777/pro100k_Exchange/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
